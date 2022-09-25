@@ -4,6 +4,8 @@
 * Covid 19 status [(Source code)](https://github.com/Datta2901/Covid-19-Status) [(Live)](https://covid-19-data-status.herokuapp.com/) 
 
 * Car Rental Management System [(Source code)](https://github.com/Datta2901/Car-Rental-Management-System)
+
+* Covid 19 Vaccination [(Source code)](https://github.com/Datta2901/Covid_Vaccination)
   
 #### Machine Learning
 
@@ -26,6 +28,10 @@
 * Face and Eye Detection [(Source code)](https://github.com/Datta2901/Face_And_Eye_Detection)
   
 * Video Streaming [(Source code)](https://github.com/Datta2901/VideoStreaming)
+
+#### NLP
+
+* Movie Recommendation [(Source code)](https://github.com/Datta2901/Movie_Recommendation_System)
   
 #### Hackathons
 
