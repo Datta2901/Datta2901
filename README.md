@@ -19,6 +19,8 @@
   
 * Spam Detection [(Source code)](https://github.com/ProjectsRelatedThings/Spam_Detection)
 
+* Campus Placement Prediction [(Source code)](https://github.com/RandomCodes101/CampusPlacementPrediction)
+
 #### OpenCV  
 
 * Colour Detection [(Source code)](https://github.com/Datta2901/Colour_Detection)
