@@ -34,7 +34,7 @@
 #### NLP
 
 * Movie Recommendation [(Source code)](https://github.com/Datta2901/Movie_Recommendation_System)
-* Automated MCQ Generation [(Source code)]([https://github.com/Datta2901/Movie_Recommendation_System](https://github.com/Datta2901/Automated-Mcq-Generation))
+* Automated MCQ Generation [(Source code)](https://github.com/Datta2901/Automated-Mcq-Generation)
   
 #### Hackathons
 
